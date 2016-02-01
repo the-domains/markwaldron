@@ -6,10 +6,10 @@ color:
     - '#606050'
     - '#000000'
     - '#000000'
-  brandStrength: 0.46847950153676643
-  lightness: 0.8882060710709401
-  rhythmicContrast: 0.15557706607773802
-  saturation: 0.7212019834658903
+  brandStrength: 0
+  lightness: 0.512335
+  rhythmicContrast: 1
+  saturation: 0
 cta: {}
 layout_spectrum: 0.9816805932546375
 name: markwaldron
