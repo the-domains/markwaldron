@@ -1,4 +1,19 @@
-analytics: {}
+name: markwaldron
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.37831260036080216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -7,12 +22,10 @@ color:
     - '#F8E858'
     - '#D8D898'
   brandStrength: 0
-  lightness: 0.512335
-  rhythmicContrast: 1
-  saturation: 0
-cta: {}
-layout_spectrum: 0.9816805932546375
-name: markwaldron
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.37831260036080216
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose:
+  - name: null
+    item: null
+    url: null
